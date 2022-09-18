@@ -1,6 +1,6 @@
 import './style.css'
 //import './clean-code/06-classes-c'
-import './solid/02-open-close-a'
+import './solid/05-dependency-a'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
